@@ -4,15 +4,6 @@ I'm a Computer Science student from Serbia. I enjoy building useful tools and so
 
 ---
 
-### 🚀 Projects
-
-- 🔄 [Software Updater](https://github.com/cyclonicalperson/software-updater) – Auto-updates installed apps on Windows  
-- 🌍 [Document Translator](https://github.com/cyclonicalperson/microsoft-document-translator) – Translates Office files, keeps formatting  
-- 🎮 [2048 in Unity](https://github.com/cyclonicalperson/2048-game) – Simple 2048 game clone in Unity (C#)  
-- 🔐 [Custom Cipher](https://github.com/cyclonicalperson/custom-cipher-encrypter-decypter) – Encode/decode with a basic cipher  
-
----
-
 ### 🛠 Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
