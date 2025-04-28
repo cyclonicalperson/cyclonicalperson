@@ -37,3 +37,5 @@ I'm a Computer Science student from Serbia. I enjoy building useful tools and so
     <img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="portfolio" height="50" width="50" />
   </a>
 </p>
+
+<br>Last edited 28.4.2025.
