@@ -7,7 +7,7 @@ I'm a Computer Science student from Serbia. I enjoy building useful tools and so
 ### 🛠 Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=py,cpp,cs,js,ts,html,css,nodejs,react,astro,git,github,vscode,linux,sqlite&perline=10" /> </a> </p>
+    <img src="https://skillicons.dev/icons?i=py,cpp,cs,js,ts,html,css,nodejs,react,astro,nextjs,express,tailwind,sqlite,git,github,bash,docker,vscode,linux,pycharm,clion,rider,webstorm&perline=10" />
   </a>
 </p>
 
@@ -38,4 +38,4 @@ I'm a Computer Science student from Serbia. I enjoy building useful tools and so
   </a>
 </p>
 
-<br>Last edited 10.5.2025.
+<br>Last edited 3.7.2025.
