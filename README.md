@@ -18,8 +18,8 @@ I'm a Computer Science student from Serbia. I enjoy building useful tools and so
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cyclonicalperson&show_icons=true&theme=dark" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyclonicalperson&layout=compact&theme=dark" width="49%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=cyclonicalperson&show_icons=true&theme=dark" width="49%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cyclonicalperson&layout=compact&theme=dark" width="49%" />
 </p>
 
 ---
